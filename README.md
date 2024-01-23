@@ -4,7 +4,7 @@
 This project aims to develop an AI-powered chatbot providing informed and accurate information on climate change. The bot assists users in understanding complex climate-related topics, leveraging data from various authoritative sources.
 
 ## Data Sources
-The foundation of this project includes academic research papers and data from the Global Environmental Outlook. The data collection process is essential but not detailed in this documentation.
+The foundation of this project is built upon a meticulously curated set of data sources, including academic research papers and data from the Global Environmental Outlook. The data collection process, while essential, is not the focus of this documentation and thus is not detailed here.
 
 ## Data Preprocessing
 Significant effort was dedicated to manual preprocessing of data, mostly in PDF format. This involved removing formatting artifacts and converting data into a text format suitable for AI processing. Details are in `[placeholder_notebook_name]`.
