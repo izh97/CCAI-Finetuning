@@ -1,4 +1,4 @@
-# Climate Change Chatbot Project
+# The Climate Change AIctivist
 
 ## Overview
 This project aims to develop an AI-powered chatbot providing informed and accurate information on climate change. The bot assists users in understanding complex climate-related topics, leveraging data from various authoritative sources.
