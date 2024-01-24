@@ -7,7 +7,7 @@ This project aims to develop an AI-powered chatbot providing informed and accura
 The foundation of this project is built upon a meticulously curated set of data sources, including academic research papers and data from the Global Environmental Outlook. The data collection process, while essential, is not the focus of this documentation and thus is not detailed here.
 
 ## Data Preprocessing
-Significant effort was dedicated to manual preprocessing of data, mostly in PDF format. This involved removing formatting artifacts and converting data into a text format suitable for AI processing. Details are in `[placeholder_notebook_name]`.
+Significant effort was dedicated to manual preprocessing of data, mostly in PDF format. This involved removing formatting artifacts and converting data into a text format suitable for AI processing. Details can be found in `[Clean_pdf_data_example.ipynb]`.
 
 ## Data Summarization and Question Generation
 Utilizing the GPT-3.5 API, the project involved:
