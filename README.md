@@ -15,7 +15,7 @@ Utilizing the GPT-3.5 API, the project involved:
 2. **Question Generation** [Generate_summary_gpt3.5.ipynb]: Generating questions based on the summarized data to create a diverse question-answer pair collection.
 
 ## Model Training and Fine-Tuning
-The project is based on a pre-trained quantized Zephyr7b model, which was fine-tuned with over 27000 question-answer pairs. The preliminary fine-tuning results and hyperparameter configuration can be found in [Fine-tune_zephyr7b.ipynb]
+The project is based on a pre-trained quantized Zephyr7b model, which was fine-tuned on over 27000 question-answer pairs. The preliminary fine-tuning results and hyperparameter configuration can be found in [Fine-tune_zephyr7b.ipynb]
 
 ## Current Status and Next Steps
 The chatbot has undergone initial training and is in early testing stages. Future work includes evaluation, expanding the knowledge base, and a small-scale deployment.
